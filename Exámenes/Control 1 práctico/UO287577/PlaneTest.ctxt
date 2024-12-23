@@ -1,0 +1,31 @@
+#BlueJ class context
+comment0.target=PlaneTest
+comment0.text=\r\n\ The\ test\ class\ PlaneTest.\r\n\r\n\ @author\ \ Miguel\r\n\ @version\ 6-10-21\r\n
+comment1.params=
+comment1.target=void\ testPlaneWithoutParams()
+comment1.text=\r\n\ Pruebas\ del\ constructor\ por\ defecto\r\n\ Piloto\ \=\ null\r\n\ Identificador\ 'A'\r\n\ Combustible\ 0\r\n
+comment10.params=
+comment10.target=void\ testSetPilotBeingFemaleWith70Years()
+comment11.params=
+comment11.target=void\ testSetPilotWithoutPilot()
+comment2.params=
+comment2.target=void\ testConstructorWithOnlyPilot()
+comment2.text=\r\n\ Prueba\ del\ constructor\ Plane\ con\ pilot1\ como\ \u00FAnico\ par\u00E1metro\r\n
+comment3.params=
+comment3.target=void\ testConstructorWithOnlyIdentifier()
+comment3.text=\r\n\ Prueba\ del\ constructor\ Plane\ con\ Identifier\ como\ \u00FAnico\ par\u00E1metro\r\n
+comment4.params=
+comment4.target=void\ testConstructorWithOnlyFuel()
+comment4.text=\r\n\ Prueba\ del\ constructor\ Plane\ con\ Fuel\ como\ \u00FAnico\ par\u00E1metro\r\n
+comment5.params=
+comment5.target=void\ testSetPilotBeingMaleWith40Years()
+comment5.text=\r\n\ Pruebas\ para\ setPilot\ con\ distintas\ condiciones\:\r\n\ \r\n\ 1-Que\ el\ piloto\ sea\ hombre,\ mayor\ de\ 30\ y\ menor\ de\ 50\ a\u00F1os\ (sin\ incluir)\ (true)\r\n\ 2-Que\ el\ piloto\ sea\ hombre\ y\ menor\ de\ 30\ a\u00F1os\ \r\n\ 3-Que\ el\ piloto\ sea\ hombre\ y\ mayor\ de\ 50\ a\u00F1os\r\n\ 4-Que\ el\ piloto\ sea\ mujer\ sin\ ser\ mayor\ de\ edad\r\n\ 5-Que\ el\ piloto\ sea\ mujer,\ sea\ mayor\ de\ edad\ y\ no\ est\u00E9\ jubilada\ (true)\r\n\ 6-Que\ el\ piloto\ sea\ mujer\ y\ est\u00E9\ jubilada\r\n\ 7-Que\ el\ piloto\ sea\ null\ (true)\r\n
+comment6.params=
+comment6.target=void\ testSetPilotBeingMaleWith20Years()
+comment7.params=
+comment7.target=void\ testSetPilotBeingMaleWith70Years()
+comment8.params=
+comment8.target=void\ testSetPilotBeingFemaleWith10Years()
+comment9.params=
+comment9.target=void\ testSetPilotBeingFemaleWith20Years()
+numComments=12
