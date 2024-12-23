@@ -1,0 +1,10 @@
+{ {5,10,8,9},{16,30,25,41},{7,17,50,12},{45,8,22,34} }
+
+
+{ {5,10,3,9},{16,30,25,41},{2,17,50,12},{45,8,22,34} }
+
+Existen asertos para arrays:
+
+assertArrayEquals(int[][] expecteds, int[][] actuals)
+
+Este aserto se cumple (es verdadero) si dos arrays de enteros son iguales.
