@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FlySimulatorTest
+comment0.text=\r\n\ The\ test\ class\ FlySimulatorTest.\r\n\r\n\ @author\ \ Miguel\r\n\ @version\ 4-12-20\r\n
+comment1.params=
+comment1.target=void\ testFlySymulatorCollision4Planes()
+comment1.text=\r\n\ Pruebas\ de\ animate\r\n\ General-\ \ Varios\ aviones\ vuelan\ varias\ veces\ hasta\ que\ chocan\r\n\ \ \ \ -\ Son\ 4\ aviones\r\n\ \ \ \ -\ Son\ 3\ aviones\r\n
+comment2.params=
+comment2.target=void\ testFlySymulatorCollision3Planes()
+numComments=3

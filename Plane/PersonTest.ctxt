@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PersonTest
+comment0.text=\r\n\ The\ test\ class\ PersonTest.\r\n\r\n\ @author\ \ Miguel\r\n\ @version\ 15-9-21\r\n
+comment1.params=
+comment1.target=void\ testGetHashCode()
+comment1.text=\r\n\ Pruebas\ de\ getHashCode\r\n
+numComments=2

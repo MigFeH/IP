@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=WheelTest
+comment0.text=\r\n\ The\ test\ class\ WheelTest.\r\n\r\n\ @author\ \ Miguel\r\n\ @version\ 20-10-21\ \r\n
+comment1.params=
+comment1.target=void\ testWheelWithoutParams()
+comment1.text=\r\n\ Pruebas\ del\ constructor\ sin\ par\u00E1metros\r\n\ Asigna\ presi\u00F3n\ standard\ y\ presi\u00F3n\ m\u00E1xima\ standard\r\n
+comment2.params=
+comment2.target=void\ testWheelWithParams()
+comment2.text=\r\n\ Pruebas\ del\ constructor\ con\ par\u00E1metros\r\n
+comment3.params=
+comment3.target=void\ testTestMethodWithLowerPressure()
+comment3.text=\r\n\ Pruebas\ del\ m\u00E9todo\ test\r\n
+numComments=4
